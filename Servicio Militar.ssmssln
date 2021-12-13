@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Servicio Militar", "Servicio Militar\Servicio Militar.ssmssqlproj", "{42549B24-F4DB-4CF9-81FE-5AB62734020F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42549B24-F4DB-4CF9-81FE-5AB62734020F}.Default|Default.ActiveCfg = Default
+		{EC1D6F8B-25E5-4470-9DEF-73B6CE29C671}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55AD7386-7326-47D5-AAB7-C4D4E543F928}
+	EndGlobalSection
+EndGlobal
